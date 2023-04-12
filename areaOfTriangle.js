@@ -1,4 +1,4 @@
 function triArea(base,height){
-let Area=(base*height)/2;
-return Area;
+  let area=(base*height)/2;
+  return area;
 }
